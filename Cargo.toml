@@ -5,4 +5,3 @@ edition = "2021"
 
 [dependencies]
 cpal = "0.15"         # audio I/O
-dasp_signal = "0.11"  # optional helper for oscillators (we'll mostly do manual math)
